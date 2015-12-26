@@ -423,8 +423,6 @@ there.
 /* Header */
 
 body > header {
-  background: url('https://images.unsplash.com/photo-1439556838232-994e4c0d3b7c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=0c1215e6c694118918793a9f0149819f') top center no-repeat;
-  background-size: cover;
   min-height: 680px;
   width: 100%;
 }
